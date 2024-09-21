@@ -25,7 +25,7 @@ public class Main {
         final int i = 0;
         Block genesisBlock = new Block( 0, genesisTransactions);
 
-        System.out.println(genesisBlock.ge);
+       //System.out.println(genesisBlock.ge);
 
 
         //String[] list1 = {"a", "b", "c"};
