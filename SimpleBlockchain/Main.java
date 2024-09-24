@@ -8,7 +8,7 @@ public class Main {
     /**
      * Hash = digital signature
      * <p>
-     * Each block will have:
+     * Each block will have: 
      * <p>
      * List of transactions
      * Previous Hash
